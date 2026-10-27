@@ -1,14 +1,12 @@
 # Warehouse Robot Search Agent
 
-**CS F407: Artificial Intelligence — Group Assignment D3**
-**Group 06** 
 **Team Members:**  
 
-**Chaarvi Pruthi - 2023A7PS0555P**  
+**Chaarvi Pruthi**  
 
-**Aditya Pannu - 2023A7PS0528P**  
+**Aditya Pannu**  
 
-**Dhruv Gupta - 2023A7PS0551P**  
+**Dhruv Gupta**  
 
 
 ## What this is
